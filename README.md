@@ -57,16 +57,19 @@ A personal finance workspace for tracking day-to-day money and seeing budgets, i
 ## Trip Section
 <img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/950ef7d7-3720-4556-b48d-52d3dcd8f417" />
 <img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/886ab1c8-4aa2-4af2-9b0d-969c357062e8" />
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Loan/ Gift Section
 <img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/fd20008d-1e67-4d78-a1c0-9ff102f709b5" />
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Analysis Section
 <img width="1917" height="963" alt="image" src="https://github.com/user-attachments/assets/b3fe375f-e658-4218-b988-68730f236adb" />
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Device Section
 <img width="1917" height="963" alt="image" src="https://github.com/user-attachments/assets/d713a0fe-0a0f-4322-ab14-171798ddb74f" />
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 *The signed-in dashboard is omitted because it can display personal financial information.*
 
