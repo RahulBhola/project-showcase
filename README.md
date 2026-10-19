@@ -1,39 +1,46 @@
-# WealthFlow & Shakti Udyog
+# Project Showcase
 
-Two live applications showcasing product development across personal finance and iron foundry operations. Both source repositories are private; this repository provides a public project overview and visual previews.
+**2 live projects** across personal finance and foundry operations. This page is a public overview; both source repositories are private.
 
-[Open WealthFlow](https://wealthflowmanage.vercel.app/) · [Open Shakti Udyog](https://shakti-udyog.vercel.app/)
+| # | Project | What it does | Live app |
+|---|---|---|---|
+| 1 | **WealthFlow** | Personal finance: accounts, budgets, investments, transactions, and shared trip expenses. | [Open WealthFlow](https://wealthflowmanage.vercel.app/) |
+| 2 | **Shakti Udyog** | Foundry platform: casting catalogue, customer enquiries, and production workflows. | [Open Shakti Udyog](https://shakti-udyog.vercel.app/) |
 
-## WealthFlow
+---
 
-A personal finance workspace for tracking day-to-day money, budgets, investments, and shared trip costs.
+## 1. WealthFlow — Personal Finance
 
-![WealthFlow public sign-in screen](./wealthflow-login.jpg)
+A personal finance workspace for tracking day-to-day money and seeing budgets, investments, and shared trip costs in one place.
 
-*This preview shows the public sign-in screen. The signed-in dashboard is not shown because it can contain personal financial information.*
+**Key features**
+- Searchable account and transaction ledger for income and expenses
+- Budget, investment, SIP, and net-worth tracking
+- Shared trip expense management
 
-**What it does**
-- Organizes accounts, income, expenses, and transactions in a searchable ledger.
-- Tracks budgets, investments, SIPs, and net-worth trends.
-- Helps groups split and manage shared trip expenses.
-
-**Built with:** React 19, TypeScript, Vite, and ASP.NET Core Web API.  
+**Technology:** React 19 · TypeScript · Vite · ASP.NET Core Web API  
 **Live app:** [wealthflowmanage.vercel.app](https://wealthflowmanage.vercel.app/)  
-**Source:** Private — [RahulBhola/WealthFlow](https://github.com/RahulBhola/WealthFlow)
+**Source code:** Private — [RahulBhola/WealthFlow](https://github.com/RahulBhola/WealthFlow)
 
-## Shakti Udyog
+<p align="center"><img src="./wealthflow-login.jpg" alt="WealthFlow public sign-in screen" width="560" /></p>
 
-A digital platform for an iron foundry, combining a public castings catalogue with customer enquiries and manufacturing workflows.
+*The signed-in dashboard is omitted because it can display personal financial information.*
 
-<p align="center"><img src="https://github.com/user-attachments/assets/615e1964-cfa2-48d2-97cf-ff2e999dbd31" alt="Shakti Udyog home page with its foundry visual identity" width="100%" /></p>
+---
 
-<p align="center"><img src="https://github.com/user-attachments/assets/30eb952f-6efa-4a95-a7b7-b3c01acb460e" alt="Shakti Udyog product catalogue with component cards and technical specifications" width="100%" /></p>
+## 2. Shakti Udyog — Foundry Operations
 
-**What it does**
-- Presents a searchable catalogue with material and category filters, component details, and technical specifications.
-- Supports customer quote and order enquiries.
-- Organizes production through a five-stage workflow board and ERP administration tools.
+A digital platform for an iron foundry, bringing its castings catalogue, customer enquiries, and production workflows together.
 
-**Built with:** React 19, TypeScript, ASP.NET Core 9, PostgreSQL, and SignalR.  
+**Key features**
+- Searchable product catalogue with material and category filters, component details, and specifications
+- Customer quote and order enquiries
+- Five-stage production workflow and ERP administration tools
+
+**Technology:** React 19 · TypeScript · ASP.NET Core 9 · PostgreSQL · SignalR  
 **Live app:** [shakti-udyog.vercel.app](https://shakti-udyog.vercel.app/)  
-**Source:** Private — [RahulBhola/Shakti-Udyog](https://github.com/RahulBhola/Shakti-Udyog)
+**Source code:** Private — [RahulBhola/Shakti-Udyog](https://github.com/RahulBhola/Shakti-Udyog)
+
+<p align="center"><img src="https://github.com/user-attachments/assets/615e1964-cfa2-48d2-97cf-ff2e999dbd31" alt="Shakti Udyog home page and foundry visual identity" width="720" /></p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/30eb952f-6efa-4a95-a7b7-b3c01acb460e" alt="Shakti Udyog product catalogue and component specifications" width="720" /></p>
