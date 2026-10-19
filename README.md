@@ -1,33 +1,39 @@
-# Selected Projects
+# WealthFlow & Shakti Udyog
 
-Two deployed applications showcasing full-stack product development. Each source repository remains private; this public repository contains concise project summaries and links to the live apps.
+Two live applications showcasing product development across personal finance and iron foundry operations. Both source repositories are private; this repository provides a public project overview and visual previews.
+
+[Open WealthFlow](https://wealthflowmanage.vercel.app/) · [Open Shakti Udyog](https://shakti-udyog.vercel.app/)
 
 ## WealthFlow
 
-<img src="https://wealthflowmanage.vercel.app/favicon.svg" alt="WealthFlow mark" width="48" />
+A personal finance workspace for tracking day-to-day money, budgets, investments, and shared trip costs.
 
-A personal finance dashboard for organizing money across accounts, transactions, budgets, investments, and shared trips.
+![WealthFlow public sign-in screen](./wealthflow-login.jpg)
 
-- **Live app:** [wealthflowmanage.vercel.app](https://wealthflowmanage.vercel.app/)
-- **Highlights:** transaction ledger, budget tracking, investment and SIP views, net-worth analytics, and trip expense splitting.
-- **Technology:** React 19, TypeScript, Vite, and ASP.NET Core Web API.
-- **Source:** Private — [WealthFlow](https://github.com/RahulBhola/WealthFlow)
+*This preview shows the public sign-in screen. The signed-in dashboard is not shown because it can contain personal financial information.*
 
-> Dashboard screenshots are intentionally omitted because they can contain private account and transaction information.
+**What it does**
+- Organizes accounts, income, expenses, and transactions in a searchable ledger.
+- Tracks budgets, investments, SIPs, and net-worth trends.
+- Helps groups split and manage shared trip expenses.
+
+**Built with:** React 19, TypeScript, Vite, and ASP.NET Core Web API.  
+**Live app:** [wealthflowmanage.vercel.app](https://wealthflowmanage.vercel.app/)  
+**Source:** Private — [RahulBhola/WealthFlow](https://github.com/RahulBhola/WealthFlow)
 
 ## Shakti Udyog
 
-A digital platform for an iron foundry, bringing the public product catalogue together with customer self-service, manufacturing workflows, and administration tools.
+A digital platform for an iron foundry, combining a public castings catalogue with customer enquiries and manufacturing workflows.
 
-- **Live app:** [shakti-udyog.vercel.app](https://shakti-udyog.vercel.app/)
-- **Highlights:** product catalogue, customer order and quotation portal, five-stage manufacturing Kanban, and ERP administration.
-- **Technology:** React 19, TypeScript, ASP.NET Core 9, PostgreSQL, and SignalR.
-- **Source:** Private — [Shakti-Udyog](https://github.com/RahulBhola/Shakti-Udyog)
+<p align="center"><img src="https://github.com/user-attachments/assets/615e1964-cfa2-48d2-97cf-ff2e999dbd31" alt="Shakti Udyog home page with its foundry visual identity" width="100%" /></p>
 
-### Project visuals
+<p align="center"><img src="https://github.com/user-attachments/assets/30eb952f-6efa-4a95-a7b7-b3c01acb460e" alt="Shakti Udyog product catalogue with component cards and technical specifications" width="100%" /></p>
 
-<img src="https://shakti-udyog.vercel.app/images/faq-molten-ladle.jpg" alt="Foundry casting illustration from the Shakti Udyog site" width="100%" />
+**What it does**
+- Presents a searchable catalogue with material and category filters, component details, and technical specifications.
+- Supports customer quote and order enquiries.
+- Organizes production through a five-stage workflow board and ERP administration tools.
 
-<img src="https://shakti-udyog.vercel.app/images/products_transparent/Industrial%20Iron%20Casting.png" alt="Cast-iron component imagery from the public Shakti Udyog catalogue" width="49%" />
-
-The images are served by the public Shakti Udyog deployment. Open the live app for the interactive experience.
+**Built with:** React 19, TypeScript, ASP.NET Core 9, PostgreSQL, and SignalR.  
+**Live app:** [shakti-udyog.vercel.app](https://shakti-udyog.vercel.app/)  
+**Source:** Private — [RahulBhola/Shakti-Udyog](https://github.com/RahulBhola/Shakti-Udyog)
