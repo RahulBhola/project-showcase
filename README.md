@@ -23,15 +23,15 @@ A personal finance workspace for tracking day-to-day money and seeing budgets, i
 **Source code:** Private — [RahulBhola/WealthFlow](https://github.com/RahulBhola/WealthFlow)
 
 <p align="center"><img src="./wealthflow-login.jpg" alt="WealthFlow public sign-in screen" width="560" /></p>
-Dashboard Image
+## Dashboard Image
 <img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/4d5855f5-ec47-45ab-b364-5c2b87a3ed78" />
 <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/c59cba9d-4c60-4678-bbf2-c77e74c00bea" />
 
-Transaction Ledger Image
+## Transaction Ledger Image
 <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/3c775b28-addb-4e11-adfc-24475ebdf8cd" />
 <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/3cec47f1-5f3f-446d-9ae7-f26b08f2fc8c" />
 
-Bank Accounts
+## Bank Accounts
 <img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/3421a44e-b91c-4ab0-8ee3-69d2cf279158" />
 
 Budget Section  
